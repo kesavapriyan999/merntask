@@ -3,7 +3,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "KESAVAPRIYAN",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
     "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
@@ -91,34 +91,22 @@ export default {
   // Services Section ---------------
 
   services: [
-    {
-      title: "Art Direction",
-      description:
-        "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance.",
-    },
-    {
-      title: "Branding",
-      description:
-        "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors.",
-    },
+    +
+
     {
       title: "Web Design",
       description:
         "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel.",
     },
-    {
-      title: "3D Design",
-      description:
-        "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life.",
-    },
+    
   ],
 
   // End Services Section --------------------------
 
   // About Secton --------------
   aboutpara:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  //   End About Section ---------------------
+     "I AM KESAVAPRIYAN FROM BANNARI AMMAN INSTITUTE OF TECHNOLOGY"
+    //   End About Section ---------------------
 };
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+
